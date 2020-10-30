@@ -1,0 +1,13 @@
+.page {
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale;
+  /* Подключаем сглаживание шрифтов */
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  /* Подгонка размера текста */
+
+  margin: 0 auto;
+  /* выше для экранов больше 1600px отцентрировали весь контент */
+}
