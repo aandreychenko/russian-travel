@@ -1,0 +1,10 @@
+.lead {
+	grid-area: lead;
+	margin: 56px auto 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+	.lead {
+		margin-top: 48px;
+	}
+}
