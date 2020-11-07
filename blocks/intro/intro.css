@@ -1,0 +1,23 @@
+.intro {
+	font-family: Inter, Arial, sans-serif;
+	color: #fff;
+	margin: 93px auto 0 auto;
+	max-width: 984px;
+}
+
+@media screen and (max-width: 1024px) {
+	.intro {
+		max-width: 928px;
+}
+
+@media screen and (max-width: 976px) {
+	.intro {
+		margin-top: 89px;
+		max-width: calc(100% - 24px*2);
+}
+
+@media screen and (max-width: 425px) {
+	.intro {
+		margin-top: 65px;
+		max-width: calc(100% - 16px*2);
+}
