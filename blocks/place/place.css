@@ -9,7 +9,7 @@
 	grid-column-gap: 40px;
 	grid-row-gap: 48px;
 	max-width: 984px;
-	align-items: bottom;
+	align-items: end;
 	font-family: Inter, Arial, sans-serif;
 	color: #fff;
 }
@@ -33,6 +33,7 @@
 		margin-left: 24px;
 		margin-right: 24px;
 	}
+}
 
 @media screen and (max-width: 600px) {
 	.place {
