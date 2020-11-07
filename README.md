@@ -7,3 +7,6 @@ Description:
 
 Planned:
 - Проверка кроссбраузерности и добавка вендорных префиксов
+
+Страница проекта на GitHub
+https://aandreychenko.github.io/russian-travel/
