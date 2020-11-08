@@ -2,7 +2,15 @@
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
 	grid-gap: 16px;
-	margin: 92px 48px 0 48px;
+	margin: 92px auto 0 auto;
+	max-width: 1184px;
+}
+
+@media screen and (max-width: 1280px) {
+	.photo-grid {
+		margin-left:48px;
+		margin-right: 48px;
+	}
 }
 
 @media screen and (max-width: 768px) {

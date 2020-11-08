@@ -5,7 +5,7 @@
 	max-width: 984px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1080px) {
 	.intro {
 		max-width: 928px;
 	}
@@ -18,7 +18,7 @@
 	}
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 545px) {
 	.intro {
 		margin-top: 65px;
 		max-width: calc(100% - 16px*2);

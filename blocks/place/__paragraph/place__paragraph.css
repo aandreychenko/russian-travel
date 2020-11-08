@@ -6,20 +6,21 @@
 	margin-top: 26px;
 	margin-bottom: 0;
 	padding: 0;
+	align-self: start;
 }
 
 .place__paragraph:nth-child(1) {
-	margin-top: -1px;
+	margin-top: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 976px) {
 	.place__paragraph {
 		font-size: 16px;
 		line-height: 26px;
 	}
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 660px) {
 	.place__paragraph {
 		margin-left: 16px;
 		margin-right: 16px;

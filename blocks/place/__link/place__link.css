@@ -4,7 +4,11 @@
 	font-size: 18px;
 	line-height: 22px;
 	margin-top: 1px;
-	text-decoration-line: underline;
-	text-underline-position: under;
+	text-decoration-line: none;
+	border-bottom: 1px solid white;
 	color: #fff;
+}
+
+.place__link:hover {
+	opacity: .8;
 }

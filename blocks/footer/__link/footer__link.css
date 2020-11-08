@@ -13,8 +13,8 @@
 }
 
 .footer__link:hover {
-	text-decoration: underline;
-	text-underline-position: under;
+	border-bottom: 1px solid white;
+	opacity: .8;
 }
 
 @media screen and (max-width: 730px) {
